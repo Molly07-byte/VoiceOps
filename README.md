@@ -1,7 +1,5 @@
 # VoiceOps - An AI-Based Voice Clone Detection and Risk Assessment System
 
-
-VoiceOps – AI-Powered Voice Cloning Detection & Risk Assessment
 Smart India Hackathon 2026 | Problem Statement ID: 26104
 
 VoiceOps is an AI-based system designed to detect AI-generated and cloned voices to help prevent voice impersonation attacks.
