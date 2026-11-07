@@ -1,5 +1,5 @@
-# VoiceOps
-AI-Based Voice Clone Detection and Risk Assessment System
+# VoiceOps - An AI-Based Voice Clone Detection and Risk Assessment System
+
 
 VoiceOps – AI-Powered Voice Cloning Detection & Risk Assessment
 Smart India Hackathon 2026 | Problem Statement ID: 26104
